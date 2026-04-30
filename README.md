@@ -8,7 +8,7 @@
 
 
 ## デモ
-![ゲーム画面](images/video.gif)
+![ゲーム画面](Images/video.gif)
 
 ▶ Unityroom: https://unityroom.com/games/signal_defense_use_sensor
 
